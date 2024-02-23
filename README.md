@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UmerQazii
 - 🌱 I’m currently learning Data science form SMIT.
 - 📫 You can reach me on these platforms:
-Instagram: https://www.instagram.com/umerqazi_23/ \n
+Instagram: https://www.instagram.com/umerqazi_23/ 
 Linkedin: https://www.linkedin.com/in/umer-qazi/
 
 

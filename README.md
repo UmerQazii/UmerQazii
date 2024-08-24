@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name] 👋
+Hi there, I'm Qazi Umer 👋
 🚀 Aspiring Data Engineer | Python Enthusiast | SQL Explorer
 Welcome to my GitHub profile! I'm a passionate beginner in Data Engineering, eager to learn and grow in the field. My journey into the world of data has just begun, and I'm excited to share my progress, projects, and learning experiences with you.
 

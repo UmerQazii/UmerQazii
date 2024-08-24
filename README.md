@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate beginner in Data Engineering, eag
 🔭 What I'm Currently Working On
 Learning SQL: Deepening my understanding of SQL for data manipulation and querying.
 Python Projects: Building small Python applications to improve my coding skills.
-Currency Converter App: Creating a currency converter using Python, SQL, and Streamlit.
+Currency Converter App: Creating a currency converter using Python, SQL, and Streamlit.\n
 🌱 What I'm Learning
 Data Warehousing: Understanding the concepts of data warehousing and ETL processes.
 Cloud Platforms: Exploring cloud data solutions like AWS and Google Cloud.

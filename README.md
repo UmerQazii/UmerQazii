@@ -5,26 +5,32 @@ Welcome to my GitHub profile! I'm a passionate beginner in Data Engineering, eag
 🔭 What I'm Currently Working On
 Learning SQL: Deepening my understanding of SQL for data manipulation and querying.
 Python Projects: Building small Python applications to improve my coding skills.
-Currency Converter App: Creating a currency converter using Python, SQL, and Streamlit.\n
+Currency Converter App: Creating a currency converter using Python, SQL, and Streamlit.
+
 🌱 What I'm Learning
 Data Warehousing: Understanding the concepts of data warehousing and ETL processes.
 Cloud Platforms: Exploring cloud data solutions like AWS and Google Cloud.
 Data Pipelines: Learning how to build efficient and scalable data pipelines.
+
 👨‍💻 Technologies & Tools
 Languages: Python, SQL
 Tools: Jupyter, Streamlit, Git, VS Code
 Databases: SQLite, PostgreSQL (Learning)
 Cloud Data Platforms: Snowflake (Certified)
 Version Control: Git & GitHub
+
 🛠️ My Projects
 Currency Converter App: A simple Python app to convert currencies using real-time exchange rates.
 SQL Challenge Lab: Completed a SQL challenge lab focusing on altering tables and updating fields.
+
 📈 My Learning Goals
 Mastering SQL for data querying and manipulation.
 Building and deploying end-to-end data pipelines.
 Gaining hands-on experience with cloud data platforms.
+
 📜 Certifications
 Snowflake Certified Student: Successfully completed the Snowflake certification and earned the associated badge.
+
 📫 How to Reach Me
 LinkedIn: https://www.linkedin.com/in/umer-qazi-b189a62b6
 Email: qaziumer230@gmail.com

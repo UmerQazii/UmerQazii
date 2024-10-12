@@ -5,7 +5,7 @@
 ---
 
 **🌱 I’m currently learning:**  
-Data Engineering
+Data Engineering  
 Software Development
 
 **👨‍💻 My LinkedIn:**  
@@ -13,7 +13,6 @@ Software Development
 
 **📫 How to reach me:**  
 [qaziumer230@gmail.com](mailto:qaziumer230@gmail.com)
-
 
 ---
 
@@ -27,4 +26,13 @@ Software Development
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%23#29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
+### Certifications:
+- Certified by Snowflake
+
+---
+
+### Additional Skills:
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23#017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%231C4C76.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
